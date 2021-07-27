@@ -1,0 +1,17 @@
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\nunit.engine.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\ConvertStringToIntegerItem.Test.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\ConvertStringToIntegerItem.Test.pdb
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\nunit.framework.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\ConvertStringToIntegerItem.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\bin\Debug\net472\ConvertStringToIntegerItem.pdb
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.AssemblyInfoInputs.cache
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.AssemblyInfo.cs
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.csproj.CopyComplete
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem.Test\obj\Debug\net472\ConvertStringToIntegerItem.Test.pdb

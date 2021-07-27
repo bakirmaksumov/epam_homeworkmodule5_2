@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rYrd4MhRbSqREZpuYQPLnPdsaQAiQNGXLNPXU4ijAMZ5tr5L0PhpDZ9pxWPkS0flKfoDE10yvI74XpQES/HGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\ConvertStringToIntegerItem.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MrFree\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\MrFree\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\MrFree\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\MrFree\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

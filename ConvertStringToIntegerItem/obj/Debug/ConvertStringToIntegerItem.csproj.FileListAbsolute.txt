@@ -1,0 +1,6 @@
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\bin\Debug\ConvertStringToIntegerItem.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\bin\Debug\ConvertStringToIntegerItem.pdb
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\obj\Debug\ConvertStringToIntegerItem.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\obj\Debug\ConvertStringToIntegerItem.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\obj\Debug\ConvertStringToIntegerItem.dll
+C:\Users\MrFree\Desktop\epam\taskModule#5\epam_homeworkmodule5_2\ConvertStringToIntegerItem\ConvertStringToIntegerItem\obj\Debug\ConvertStringToIntegerItem.pdb

@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\ConvertStringToIntegerItem.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\ConvertStringToIntegerItem.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\ConvertStringToIntegerItem.Test.csproj",
+        "projectName": "ConvertStringToIntegerItem.Test",
+        "projectPath": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\ConvertStringToIntegerItem.Test.csproj",
+        "packagesPath": "C:\\Users\\MrFree\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MrFree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.csproj": {
+                "projectPath": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.csproj",
+        "projectName": "ConvertStringToIntegerItem",
+        "projectPath": "C:\\Users\\MrFree\\Desktop\\epam\\taskModule#5\\epam_homeworkmodule5_2\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem\\ConvertStringToIntegerItem.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
